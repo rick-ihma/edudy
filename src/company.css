@@ -1,0 +1,30 @@
+.headhighlight{
+    background-color: #312F44;
+    height: 200px;
+    line-height: 175px;
+    text-align: center;
+}
+
+.headfont{
+    font-size: 50px;
+    color: white;
+}
+
+.left{
+    height: 200px;
+    width: 200px;
+}
+
+.center{
+    height: 200px;
+    width: 200px;
+}
+
+.right{
+    height: 200px;
+    width: 200px;
+}
+
+.columnsheight{
+    height: 300px;
+}
